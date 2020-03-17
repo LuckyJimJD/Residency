@@ -81,9 +81,9 @@ Leah Wortham, et al, _Learning from Practice: A Text for Experiential Legal Educ
 - You can purchase the individual assigned chapters from the publisher using the links provided. The first two required chapters are the same for all students. The third required chapter is based on the practice setting of your residency. 
 
  **Practice Setting** | **Chapter** | **Title**  |  **Purchase Link**
----|---|---|---
+:---|:---|:---|:---
 All | Chapter 3 | Learning from Supervision | [bit.ly/2TuoOnr](http://bit.ly/2TuoOnr)
-All | Chapter 7 | Bias in the Legal Profession | [bit.ly/3d6MV2H](http://bit.ly/3d6MV2H)  |   |   |  
+All | Chapter 7 | Bias in the Legal Profession | [bit.ly/3d6MV2H](http://bit.ly/3d6MV2H)  
 Private Law Firm | Chapter 14 | Learning About Lawyering | [bit.ly/2TpvAuZ](http://bit.ly/2TpvAuZ)
 Court/Judge | Chapter 19 | Judicial Externships | [bit.ly/2Ty7CgY](http://bit.ly/2Ty7CgY)
 Government Agency | Chapter 22 | Public Service Lawyering | [bit.ly/39YWwGU](http://bit.ly/39YWwGU)
@@ -92,7 +92,7 @@ Government Agency | Chapter 22 | Public Service Lawyering | [bit.ly/39YWwGU](htt
 
 Read the applicable rules for the jurisdiction of your field placement (available online using the provided links): 
 
- **Jurisdiction** | **Disciplinary Rules**  |  **Student Practice**
+ **Jurisdiction** | **Disciplinary Rules**  |  **Student Practice Rules**
 ---|---|---
  North Carolina | [bit.ly/2TrnYcg](http://bit.ly/2TrnYcg) | [bit.ly/2TmaUot](http://bit.ly/2TmaUot)
  District of Columbia | [bit.ly/2HUYpYL](http://bit.ly/2HUYpYL) | [bit.ly/2IupHFA](http://bit.ly/2IupHFA)
