@@ -1,11 +1,11 @@
 ---
 url: https://www.emfink.net # GitHub Pages site url
 baseurl: /Residency # change to match repo name
-title: Residency in Practice # change to match course name
+title: Residency-in-Practice # change to match course name
 description:  # leave blank for no description 
 last_updated: 17 March 2020 # leave blank if you don't want to display last updated
 
-name: Course Name # change to match course name
+name: Residency-in-Practice # change to match course name
 author: Eric M. Fink
 institution: Elon Law School
 street: 201 North Greene Street
