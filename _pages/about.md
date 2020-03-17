@@ -151,7 +151,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: The Placement Organization 
+- Journal: The Placement Organization 
   - Describe your placement organization, including the organizational structure, the areas of law covered, the clients served, the types of work attorneys perform, and the typical workflow. 
 - Time log 
 
@@ -167,7 +167,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: Supervision & Feedback 
+- Journal: Supervision & Feedback 
   - Using one project or assignment you have completed as an example, discuss how you have sought out supervision and your reaction to/reflection on feedback.
 - Time log 
 
@@ -183,7 +183,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: Project Analysis 
+- Journal: Project Analysis 
   - Create a bill and project analysis for one project you have worked on. Evaluate yourself and how you would bill a client for this work. 
 - Time log 
 - Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6) and schedule a meeting to discuss your progress. 
@@ -196,7 +196,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: Reflection on Placement Experience 
+- Journal: Reflection on Placement Experience 
   - Have your assignments and responsibilities been consistent with your expectations? How you have grown professionally? What knowledge and skills have you developed and what do you want to develop further during your residency and the remainder of law school? 
 - Time log 
 - Site Supervisor mid-term evaluation.
@@ -205,7 +205,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: Professional Development 
+- Journal: Professional Development 
   - Attend a one-hour professional development program or activity of your choosing. The one hour can include one unit completed on Procertas. What did you learn? What did you like/dislike?
 - Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 9 (May 25-29). 
 - Time log 
@@ -225,7 +225,7 @@ TIME
 
 ### Assignments
 
-- Journal Entry: Learning Milestones and Benchmarks
+- Journal: Learning Milestones and Benchmarks
   - Using your Goal Statement as a platform, discuss your goals and compare with learning milestones and benchmarks. Discuss one challenge and one rewarding experience. How do you compare your knowledge and skills before and after your residency? What do you want to continue to improve during your remaining time in law school? 
 - Time log 
 - Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10). 
