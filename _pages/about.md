@@ -44,11 +44,11 @@ The Residency-in-Practice course is intended to advance these common learning go
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-### Requirements & Grading 
+### Requirements
 
 To receive credit for the Residency-in-Practice, you must complete the following activities and assignments: 
 
-- Field placement hours (based on credit hours for which you have enrolled)[^29b6a348]
+- Field placement hours (based on credit hours for which you have enrolled)
 - Assigned readings; 
 - Time logs, journals, & reports; 
 - One Hour of professional development with a report and analysis; 
@@ -56,7 +56,9 @@ To receive credit for the Residency-in-Practice, you must complete the following
 - Two individual conferences with the faculty supervisor; 
 - Field supervisor and student evaluations; 
 
-[^29b6a348]: Students who complete the requisite number of hours may request to end their residency field placement one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
+_Note:_ Students who complete the requisite number of hours may request to end their residency field placement one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
+
+### Grading 
 
 This course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
