@@ -105,11 +105,11 @@ Read the applicable rules for the jurisdiction of your field placement (availabl
 
 # Schedule
 
-_Note: All written assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
+_Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
 
 ## Orientation (March 30)
 
-### Reading (to be completed before orientation)
+#### Reading (to be completed before orientation)
 
 - Attorney disciplinary rules for the jurisdiciton of your field placement (see above for links). Pay special attention to the rules on attorneys' responsibilities to clients and confidentiality. 
 - _Learning from Practice_, Chapter 3 & chapter corresponding to your field placement.
@@ -125,11 +125,11 @@ TIME
 
 ## Week 1 (March 30-April 3)
 
-### Reading
+#### Reading
 
 - _Roadmap_: Section 11, C and D, pages 47-53 and 54. 
 
-### Assignments 
+#### Assignments 
 
 - Memoranda of Understanding and Confidentiality Agreement (if required by field supervisor) 
 - Draft Learning Goals and Plan
@@ -137,20 +137,23 @@ TIME
 
 ## Week 2 (April 6-10)
 
-### Assignments
+#### Assignments
 
 - Final Learing Goals and Plan. 
   - Review field supervisor and facutly supervisor comments on draft, revise accordingly, and post on TWEN
 - Time log 
-- Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 4 (April 20-24). 
+
+#### Individual Conference  
+
+- Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 4 (April 20-24)
 
 ## Week 3 (April 13-17)
 
-### Reading 
+#### Reading 
 
 - _Learning from Practice_, Chapter corresponding to your field placement.
 
-### Assignments
+#### Assignments
 
 - Journal: The Placement Organization 
   - Describe your placement organization, including the organizational structure, the areas of law covered, the clients served, the types of work attorneys perform, and the typical workflow. 
@@ -158,15 +161,15 @@ TIME
 
 ## Week 4 (April 20-24)
 
-### Reading 
+#### Reading 
 
 - _Roadmap_: Section III C and D, page 69-77 and 78-97.
 
-### Meeting: 
+#### Meeting
 
 - First individual conference with faculty supervisor
 
-### Assignments
+#### Assignments
 
 - Journal: Supervision & Feedback 
   - Using one project or assignment you have completed as an example, discuss how you have sought out supervision and your reaction to/reflection on feedback.
@@ -174,70 +177,83 @@ TIME
 
 ## Week 5 (April 27-May 1)
 
-### Reading 
+#### Reading 
 
 - _Learning from Practice_, Chapter 7: Bias in the Legal Profession. 
 
-### Meeting 
+#### Meeting 
 
 - First group meeting with faculty supervisor 
 
-### Assignments
+#### Assignments
 
 - Journal: Project Analysis 
   - Create a bill and project analysis for one project you have worked on. Evaluate yourself and how you would bill a client for this work. 
 - Time log 
-- Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6) and schedule a meeting to discuss your progress. 
+
+#### Midterm Evaluation  
+
+- Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6)
+- Schedule conference with site supervisor and faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 6 (May 4-8)
 
 ## Week 6 (May 4-8)
 
-### Meeting 
+#### Meeting 
 
-- Faculty and site supervisor conference (student may or may not be included)
+- Faculty and site supervisor conference (student may or may not be included, based on site supervisor's preference)
 
-### Assignments
+#### Assignments
 
 - Journal: Reflection on Placement Experience 
   - Have your assignments and responsibilities been consistent with your expectations? How you have grown professionally? What knowledge and skills have you developed and what do you want to develop further during your residency and the remainder of law school? 
 - Time log 
-- Site Supervisor mid-term evaluation.
+- Mid-term evaluation (completed by site supervisor)
 
 ## Week 7 (May 11-15) 
 
-### Assignments
+#### Assignments
 
 - Journal: Professional Development 
   - Attend a one-hour professional development program or activity of your choosing. The one hour can include one unit completed on Procertas. What did you learn? What did you like/dislike?
-- Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 9 (May 25-29). 
 - Time log 
+
+#### Individual Conference  
+
+- Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 9 (May 25-29). 
 
 ## Week 8 (May 18-22) 
 
-### Assignments
+#### Assignments
 
 - Report: Create a list of all projects and assignments you have worked on. Do not include any confidential information. 
 - Time log 
 
 ## Week 9 (May 25-29)
 
-### Meeting 
+#### Meeting 
 
 - Final group meeting with faculty supervisor
 
-### Assignments
+#### Assignments
 
 - Journal: Learning Milestones and Benchmarks
   - Using your Goal Statement as a platform, discuss your goals and compare with learning milestones and benchmarks. Discuss one challenge and one rewarding experience. How do you compare your knowledge and skills before and after your residency? What do you want to continue to improve during your remaining time in law school? 
 - Time log 
-- Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10). 
+
+#### Final Evaluation 
+
+- Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10)
 
 ## Week 10 (June 1-5) 
 
-### Assignments
+#### Assignments
 
 - Time log 
-- Site supervisor's final evaluation 
-- Student evaluation of residency placement 
-- Certificate of Completion. 
-- Thank you notes to site supervisor and others who made your residency meaningful.
+- Final evaluation (completed by site supervisor)
+- Student self-evaluation
+- Certificate of Completion
+
+#### Communication 
+
+- Thank you notes to site supervisor and others who made your residency meaningful
 
