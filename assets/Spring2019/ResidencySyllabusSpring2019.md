@@ -15,7 +15,7 @@ term: 'Spring 2019'
 output:
   pdf_document:
     latex_engine: xelatex
-    template: syllabus.latex
+    template: syllabus.tex
 ---
 
 # Course Overview

@@ -26,7 +26,7 @@ secnumdepth: 0
 output:
   pdf_document:
     latex_engine: xelatex
-    template: syllabus_memoir.latex
+    template: syllabus_memoir.tex
 ---
 
 # Course Overview
