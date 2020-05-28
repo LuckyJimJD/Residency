@@ -22,7 +22,7 @@ output:
 
 # Course Description
 
-### Overview
+#### Overview
 
 The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. 
 
@@ -32,7 +32,7 @@ In your residency, you are stepping into the role of a lawyer-in-training and a 
 
 During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, as well as other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue at the workplace, you should discuss it with me. If necessary, we will involve the Director of Residencies, Professor Katherene E. Holtzinger Conner (kconner2@elon.edu; 336-279-9311). 
 
-### Learning Goals
+#### Learning Goals
 
 The Residency-in-Practice course is intended to advance these common learning goals:
 
@@ -43,7 +43,7 @@ The Residency-in-Practice course is intended to advance these common learning go
 
 Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-### Requirements
+#### Requirements
 
 To receive credit for the Residency-in-Practice, you must complete the following activities and assignments: 
 
@@ -57,7 +57,7 @@ To receive credit for the Residency-in-Practice, you must complete the following
 
 _Note:_ Students who complete the requisite number of hours may request to end their residency field placement one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
 
-### Grading 
+#### Grading 
 
 This course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
@@ -71,7 +71,7 @@ Exemplary performance in your field placement, written assignments, and group me
 
 # Required Material 
 
-### Textbooks 
+#### Textbooks 
 
 Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.) (ABA 2018). 
 
@@ -89,7 +89,7 @@ Private Law Firm | Chapter 14 | Learning About Lawyering | [bit.ly/2TpvAuZ](http
 Court/Judge | Chapter 19 | Judicial Externships | [bit.ly/2Ty7CgY](http://bit.ly/2Ty7CgY)
 Government Agency | Chapter 22 | Public Service Lawyering | [bit.ly/39YWwGU](http://bit.ly/39YWwGU)
 
-### Disciplinary and Student Practice Rules 
+#### Disciplinary and Student Practice Rules 
 
 Read the applicable rules for the jurisdiction of your field placement (available online using the provided links): 
 
