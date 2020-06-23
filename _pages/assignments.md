@@ -17,8 +17,8 @@ output:
 
 ### Forms & Journals 
 
- :Form                      | :Due 
----------------------------|------------------
+ Form                      | Due 
+:--------------------------|:------------------
  Draft Learning Goals      | Week 1
  Final Learning Goals      | Week 2
  Midterm Evaluation        | Week 6
@@ -28,7 +28,7 @@ output:
 
 
  Journal/Report                 | Due 
---------------------------------|------------------
+:-------------------------------|:------------------
  Placement Organization         | Week 3
  Supervision & Feedback         | Week 4
  Project Analysis               | Week 5
@@ -40,7 +40,7 @@ output:
 ### Conferences & Meetings
 
  Event                                              | Week 
-----------------------------------------------------|------------------
+:---------------------------------------------------|:------------------
  1st Individual Conference                          | Week 3
  1st Group Meeting                                  | Week 4
  Site Supervisor Conference with Faculty Supervisor | Week 6
@@ -50,7 +50,7 @@ output:
 ### Calendar 
 
  Week No. | End Date  | Due 
-----------|-----------|-----
+:---------|:----------|:-----
  1        | 25 June   | Learning Goals (Draft)
  2        | 3 July    | Learning Goals (Final)
  3        | 10 July   | Journal 1 
