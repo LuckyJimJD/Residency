@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /assignments/
-title: Syllabus
+title: Assignments
 author: Eric M. Fink
 affiliation: Elon Law School
 email: efink@elon.edu
