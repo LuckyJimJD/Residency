@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /assignments/
-title: 'Residency: Summer 2020'
+title: 'Assignments & Meetings'
 author: Prof. Fink
 
 fontsize: 10pt
