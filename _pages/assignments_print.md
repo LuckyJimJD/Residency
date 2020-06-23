@@ -1,12 +1,11 @@
 ---
-layout: page
-permalink: /assignments/
-title: 'Assignments & Meetings'
+title: 'Residency-in-Practice'
+subtitle: 'Assignments & Meetings'
+author: Prof. Fink 
 
 fontsize: 10pt
 geometry: top=.5in,bottom=.5in,left=1.25in,right=1.25in
 tableflush: true 
-notitle: true 
 
 output: 
   pdf_document:
