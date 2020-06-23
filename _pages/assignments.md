@@ -17,7 +17,7 @@ output:
 
 ### Forms & Journals 
 
- Form                      | Due 
+ :Form                      | :Due 
 ---------------------------|------------------
  Draft Learning Goals      | Week 1
  Final Learning Goals      | Week 2
