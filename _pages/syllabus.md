@@ -9,7 +9,7 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Residency-in-Practice 
-term: Spring 2020
+term: Summer 2020
 
 nonumbers: true 
 
@@ -123,7 +123,7 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
 
 TIME 
 
-## Week 1 (March 30-April 3)
+## Week 1 (June 22-26)
 
 #### Reading
 
@@ -135,7 +135,7 @@ TIME
 - Draft Learning Goals and Plan
   - Draft your Learning Goals and Plan in outline form (following the format discussed in orientation), discuss with your site supervisor, and post on TWEN
 
-## Week 2 (April 6-10)
+## Week 2 (June 29-July 3)
 
 #### Assignments
 
@@ -145,9 +145,9 @@ TIME
 
 #### Individual Conference  
 
-- Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 4 (April 20-24)
+- Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 3 (April 20-24)
 
-## Week 3 (April 13-17)
+## Week 3 (July 6-10)
 
 #### Reading 
 
@@ -159,15 +159,16 @@ TIME
   - Describe your placement organization, including the organizational structure, the areas of law covered, the clients served, the types of work attorneys perform, and the typical workflow. 
 - Time log 
 
-## Week 4 (April 20-24)
+#### Meeting
+
+- First individual conference with faculty supervisor
+
+
+## Week 4 (July 13-17)
 
 #### Reading 
 
 - _Roadmap_: Section III C and D, page 69-77 and 78-97.
-
-#### Meeting
-
-- First individual conference with faculty supervisor
 
 #### Assignments
 
@@ -175,15 +176,15 @@ TIME
   - Using one project or assignment you have completed as an example, discuss how you have sought out supervision and your reaction to/reflection on feedback.
 - Time log 
 
-## Week 5 (April 27-May 1)
+#### Meeting 
+
+- First group meeting with faculty supervisor 
+
+## Week 5 (July 20-24)
 
 #### Reading 
 
 - _Learning from Practice_, Chapter 7: Bias in the Legal Profession. 
-
-#### Meeting 
-
-- First group meeting with faculty supervisor 
 
 #### Assignments
 
@@ -196,7 +197,7 @@ TIME
 - Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6)
 - Schedule conference with site supervisor and faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 6 (May 4-8)
 
-## Week 6 (May 4-8)
+## Week 6 (July 27-31)
 
 #### Meeting 
 
@@ -209,7 +210,7 @@ TIME
 - Time log 
 - Mid-term evaluation (completed by site supervisor)
 
-## Week 7 (May 11-15) 
+## Week 7 (August 3-7) 
 
 #### Assignments
 
@@ -219,16 +220,20 @@ TIME
 
 #### Individual Conference  
 
-- Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 9 (May 25-29). 
+- Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 8 (May 25-29). 
 
-## Week 8 (May 18-22) 
+## Week 8 (August 10-14) 
 
 #### Assignments
 
 - Report: Create a list of all projects and assignments you have worked on. Do not include any confidential information. 
 - Time log 
 
-## Week 9 (May 25-29)
+#### Meeting 
+
+- Final individual conference with faculty supervisor
+
+## Week 9 (August 17-21)
 
 #### Meeting 
 
@@ -244,7 +249,7 @@ TIME
 
 - Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10)
 
-## Week 10 (June 1-5) 
+## Week 10 (August 24-28) 
 
 #### Assignments
 
