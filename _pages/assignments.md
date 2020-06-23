@@ -2,12 +2,9 @@
 layout: page
 permalink: /assignments/
 title: 'Residency: Summer 2020'
-author: Eric M. Fink
-affiliation: Elon Law School
+author: Prof. Fink
 
 fontsize: 10pt
-
-notitle: true 
 
 output: 
   pdf_document:
@@ -15,10 +12,6 @@ output:
     template: default.tex
   
 ---
-
-# Residency—Summer 2020
-## Professor Fink 
-
 ### Assignments 
 
 #### Forms
