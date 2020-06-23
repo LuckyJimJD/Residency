@@ -1,46 +1,57 @@
 ---
 layout: page
 permalink: /assignments/
-title: Assignments
+title: 'Residency: Summer 2020'
 author: Eric M. Fink
 affiliation: Elon Law School
-email: efink@elon.edu
-phone: 336-279-9334
-address1: 201 North Greene Street
-address2: Greensboro, North Carolina 27401
-course: Residency-in-Practice 
-term: Spring 2020
 
-nonumbers: true 
+fontsize: 10pt
+
+notitle: true 
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: syllabus.tex
+    template: default.tex
   
 ---
 
-# Assignments 
+# Residency—Summer 2020
+## Professor Fink 
 
-## Forms & Reports 
+### Assignments 
 
-- Draft Learning Goals (Week 1)
-- Final Learning Goals (Week 2)
-- Midterm Evaluation (Week 6)
-- Projects & Assignments Summary (Week 8)
-- Final Evaluation (Week 10)
-- Self-Evaluation (Week 10)
+#### Forms
+
+1. Draft Learning Goals (Week 1)
+2. Final Learning Goals (Week 2)
+3. Midterm Evaluation (Week 6)
+4. Final Evaluation (Week 10)
+5. Self-Evaluation (Week 10)
+6. Certificate of Completion (Week 10)
 
 
-## Journals
+#### Journals/Reports
 
 1. Placement Organization (Week 3)
 2. Supervision & Feedback (Week 4)
 3. Project Analysis (Week 5)
 4. Placement Experience (Week 6)
 5. Professional Development (Week 7)
+6. Projects & Assignments Summary (Week 8)
 7. Learning Milestones (Week 9)
 
-## Time Logs 
+### Calendar 
 
-- Weekly 
+ Week No. | End Date  | Due 
+----------|-----------|-----
+ 1        | 26 June   | Learning Goals (Draft)
+ 2        | 4 July    | Learning Goals (Final)
+ 3        | 11 July   | Journal 1 
+ 4        | 18 July   | Journal 2 
+ 5        | 25 July   | Journal 3 
+ 6        | 1 August  | Journal 4; Midterm Evalualtion
+ 7        | 8 August  | Journal 5 
+ 8        | 15 August | Projects & Assignments Summary 
+ 9        | 22 August | Journal 6 
+ 10       | 29 August | Final Evaluation; Self-Evaluation; Certificate of Completion
