@@ -11,8 +11,6 @@ address2: Greensboro, North Carolina 27401
 course: Residency-in-Practice 
 term: Summer 2020
 
-nonumbers: true 
-
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -57,6 +55,8 @@ To receive credit for the Residency-in-Practice, you must complete the following
 
 _Note:_ Students who complete the requisite number of hours may request to end their residency field placement one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
 
+\newpage
+
 #### Grading 
 
 This course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
@@ -100,10 +100,11 @@ Read the applicable rules for the jurisdiction of your field placement (availabl
  Georgia | [bit.ly/2Tjv1U6](http://bit.ly/2Tjv1U6) | [bit.ly/39CNpeP](http://bit.ly/39CNpeP)
  Tennessee  | [bit.ly/2wMYsDt](http://bit.ly/2wMYsDt) | [bit.ly/38DTtSO](http://bit.ly/38DTtSO) 
  Texas  | [bit.ly/39DZLDx](http://bit.ly/39DZLDx) | [bit.ly/2IBWEzO](http://bit.ly/2IBWEzO)
- U.S. Navy | [bit.ly/2TPtEKd](http://bit.ly/2TPtEKd) |  
  Virginia | [bit.ly/2EGzF4n](http://bit.ly/2EGzF4n) | [bit.ly/335mztt](http://bit.ly/335mztt)
 
-# Schedule
+\newpage
+
+# Schedule & Assignments
 
 _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
 
