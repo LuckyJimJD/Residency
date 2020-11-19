@@ -9,12 +9,13 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Residency-in-Practice 
-term: Summer 2020
+term: Winter 2021
 
 output: 
   pdf_document:
     latex_engine: xelatex
     template: syllabus.tex
+    path: /assets/pdf/syllabus.pdf
   
 ---
 
@@ -53,7 +54,7 @@ To receive credit for the Residency-in-Practice, you must complete the following
 - Two individual conferences with the faculty supervisor; 
 - Field supervisor and student evaluations; 
 
-_Note:_ Students who complete the requisite number of hours may request to end their residency field placement one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
+_Note:_ Students who complete the requisite number of hours may request to end their residency field placements one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
 
 \newpage
 
@@ -65,7 +66,7 @@ This course will be graded on a pass/fail basis. The minimum requirements for a 
 - Timely submission of all assignments; and 
 - Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others with whom you interact during the residency.
 
-Due dates for journals, time logs, and reports are indicated in the Schedule section below. If you are unable to meet an assignment deadline _because of your field supervisor's schedule_, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
+Due dates for journals, time logs, and reports are indicated in the Schedule section below. If you are unable to meet an assignment deadline because of your field supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
 
 Exemplary performance in your field placement, written assignments, and group meetings may earn a High Pass. Failure to meet these standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.
 
@@ -108,7 +109,22 @@ Read the applicable rules for the jurisdiction of your field placement (availabl
 
 _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
 
-## Orientation (March 30)
+## Assignments & Meetings Summary 
+
+ Week No. | End Date    | Assignments & Meetings 
+:---------|:------------|:---------------------
+ 1        | 8 January   | Learning Goals (Draft)
+ 2        | 15 January  | Learning Goals (Final)
+ 3        | 22 January  | Journal 1; 1st Individual Conference 
+ 4        | 29 January  | Journal 2; 1st Group Meeting 
+ 5        | 5 February  | Journal 3 
+ 6        | 12 February | Journal 4; Supervisor's Midterm Evalualtion
+ 7        | 19 February | Journal 5 
+ 8        | 26 February | Projects & Assignments Summary; 2nd Individual Conference
+ 9        | 5 March     | Journal 6; 2nd Group Meeting 
+ 10       | 8-12 March  | Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
+
+## Orientation (January 4)
 
 #### Reading (to be completed before orientation)
 
@@ -116,7 +132,7 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
 - _Learning from Practice_, Chapter 3 & chapter corresponding to your field placement.
 - _Roadmap_, Section I A-D, Section III J
 
-### Residency Bootcamp
+### Residency Orientation
 
 8:30 am-Noon 
 
@@ -124,7 +140,7 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
 
 TIME 
 
-## Week 1 (June 22-26)
+## Week 1 
 
 #### Reading
 
@@ -136,7 +152,7 @@ TIME
 - Draft Learning Goals and Plan
   - Draft your Learning Goals and Plan in outline form (following the format discussed in orientation), discuss with your site supervisor, and post on TWEN
 
-## Week 2 (June 29-July 3)
+## Week 2 
 
 #### Assignments
 
@@ -148,7 +164,7 @@ TIME
 
 - Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 3 (April 20-24)
 
-## Week 3 (July 6-10)
+## Week 3
 
 #### Reading 
 
@@ -165,7 +181,7 @@ TIME
 - First individual conference with faculty supervisor
 
 
-## Week 4 (July 13-17)
+## Week 4
 
 #### Reading 
 
@@ -181,7 +197,7 @@ TIME
 
 - First group meeting with faculty supervisor 
 
-## Week 5 (July 20-24)
+## Week 5 
 
 #### Reading 
 
@@ -198,7 +214,7 @@ TIME
 - Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6)
 - Schedule conference with site supervisor and faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 6 (May 4-8)
 
-## Week 6 (July 27-31)
+## Week 6 
 
 #### Meeting 
 
@@ -211,7 +227,7 @@ TIME
 - Time log 
 - Mid-term evaluation (completed by site supervisor)
 
-## Week 7 (August 3-7) 
+## Week 7
 
 #### Assignments
 
@@ -223,7 +239,7 @@ TIME
 
 - Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 8 (May 25-29). 
 
-## Week 8 (August 10-14) 
+## Week 8 
 
 #### Assignments
 
@@ -234,7 +250,7 @@ TIME
 
 - Final individual conference with faculty supervisor
 
-## Week 9 (August 17-21)
+## Week 9 
 
 #### Meeting 
 
@@ -250,7 +266,7 @@ TIME
 
 - Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10)
 
-## Week 10 (August 24-28) 
+## Week 10 
 
 #### Assignments
 
@@ -262,4 +278,5 @@ TIME
 #### Communication 
 
 - Thank you notes to site supervisor and others who made your residency meaningful
+
 

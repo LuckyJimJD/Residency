@@ -15,7 +15,7 @@ output:
   
 ---
 
-### Forms & Journals 
+### Forms 
 
  Form                      | Due 
 :--------------------------|:------------------
@@ -26,18 +26,19 @@ output:
  Self-Evaluation           | Week 10
  Certificate of Completion | Week 10
 
+### Journals/Reports
 
- Journal/Report                 | Due 
-:-------------------------------|:------------------
- Placement Organization         | Week 3
- Supervision & Feedback         | Week 4
- Project Analysis               | Week 5
- Placement Experience           | Week 6
- Professional Development       | Week 7
- Projects & Assignments Summary | Week 8
- Learning Milestones            | Week 9
+ No. | Topic                          | Due 
+:----|:-------------------------------|:------------
+ 1   | Placement Organization         | Week 3
+ 2   | Supervision & Feedback         | Week 4
+ 3   | Project Analysis               | Week 5
+ 4   | Placement Experience           | Week 6
+ 5   | Professional Development       | Week 7
+ 6   | Projects & Assignments Summary | Week 8
+ 7   | Learning Milestones            | Week 9
 
-### Conferences & Meetings
+### Individual Conferences & Group Meetings
 
  Event                                              | Week 
 :---------------------------------------------------|:------------------
@@ -49,15 +50,15 @@ output:
 
 ### Calendar 
 
- Week No. | End Date  | Due 
-:---------|:----------|:-----
- 1        | 25 June   | Learning Goals (Draft)
- 2        | 3 July    | Learning Goals (Final)
- 3        | 10 July   | Journal 1 
- 4        | 17 July   | Journal 2 
- 5        | 24 July   | Journal 3 
- 6        | 31 July   | Journal 4; Midterm Evalualtion
- 7        | 7 August  | Journal 5 
- 8        | 14 August | Projects & Assignments Summary 
- 9        | 21 August | Journal 6 
- 10       | 28 August | Final Evaluation; Self-Evaluation; Certificate of Completion
+ Week No. | End Date    | Assignments & Meetings 
+:---------|:------------|:----------------------
+ 1        | 8 January   | Learning Goals (Draft)
+ 2        | 15 January  | Learning Goals (Final)
+ 3        | 22 January  | Journal 1; 1st Individual Conference 
+ 4        | 29 January  | Journal 2; 1st Group Meeting 
+ 5        | 5 February  | Journal 3 
+ 6        | 12 February | Journal 4; Supervisor's Midterm Evalualtion
+ 7        | 19 February | Journal 5 
+ 8        | 26 February | Projects & Assignments Summary; 2nd Individual Conference
+ 9        | 5 March     | Journal 6; 2nd Group Meeting 
+ 10       | 12 March    | Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
