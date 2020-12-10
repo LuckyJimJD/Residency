@@ -72,27 +72,9 @@ Exemplary performance in your field placement, written assignments, and group me
 
 # Required Material 
 
-#### Textbooks 
+Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.) (ABA 2018). Available from the ABA: [bit.ly/32pk6tk](http://bit.ly/32pk6tk)
 
-Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.) (ABA 2018). 
-
-- You can purchase this book (hardcopy or digital) at a discounted student price from the ABA. [bit.ly/32pk6tk](http://bit.ly/32pk6tk)
-
-Leah Wortham, et al, _Learning from Practice: A Text for Experiential Legal Education_ (3d ed.) (West Academic 2016). 
-
-- You can purchase the individual assigned chapters from the publisher using the links provided. The first two required chapters are the same for all students. The third required chapter is based on the practice setting of your residency. 
-
- **Practice Setting** | **Chapter** | **Title**  |  **Purchase Link**
-:---|:---|:---|:---
-All | Chapter 3 | Learning from Supervision | [bit.ly/2TuoOnr](http://bit.ly/2TuoOnr)
-All | Chapter 7 | Bias in the Legal Profession | [bit.ly/3d6MV2H](http://bit.ly/3d6MV2H)  
-Private Law Firm | Chapter 14 | Learning About Lawyering | [bit.ly/2TpvAuZ](http://bit.ly/2TpvAuZ)
-Court/Judge | Chapter 19 | Judicial Externships | [bit.ly/2Ty7CgY](http://bit.ly/2Ty7CgY)
-Government Agency | Chapter 22 | Public Service Lawyering | [bit.ly/39YWwGU](http://bit.ly/39YWwGU)
-
-#### Disciplinary and Student Practice Rules 
-
-Read the applicable rules for the jurisdiction of your field placement (available online using the provided links): 
+Disciplinary and student practice rules for the jurisdiction of your field placement: 
 
  **Jurisdiction** | **Disciplinary Rules**  |  **Student Practice Rules**
 ---|---|---
@@ -124,13 +106,17 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
  9        | 5 March     | Journal 6; 2nd Group Meeting 
  10       | 8-12 March  | Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
 
+- The individual conferences and group meetings will be on Zoom. 
+- You will schedule your individual conferences using the link provided in the weekly schedule below. 
+- I will schedule the group meetings during the weeks indicated, based on everyone's availability. 
+
 ## Orientation (January 4)
 
 #### Reading (to be completed before orientation)
 
-- Attorney disciplinary rules for the jurisdiciton of your field placement (see above for links). Pay special attention to the rules on attorneys' responsibilities to clients and confidentiality. 
-- _Learning from Practice_, Chapter 3 & chapter corresponding to your field placement.
-- _Roadmap_, Section I A-D, Section III J
+- Attorney disciplinary rules for the jurisdiciton of your field placement
+	- [Links here](/links)). 
+- Neil Hamilton, _Roadmap_, Sections I A-D & III J
 
 ### Residency Orientation
 
@@ -138,7 +124,7 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
 
 ### Group meeting with faculty supervisor
 
-TIME 
+TIME
 
 ## Week 1 
 
@@ -148,32 +134,27 @@ TIME
 
 #### Assignments 
 
-- Memoranda of Understanding and Confidentiality Agreement (if required by field supervisor) 
+- Memoranda of Understanding 
+- Confidentiality Agreement (if applicable) 
 - Draft Learning Goals and Plan
-  - Draft your Learning Goals and Plan in outline form (following the format discussed in orientation), discuss with your site supervisor, and post on TWEN
 
 ## Week 2 
 
 #### Assignments
 
-- Final Learing Goals and Plan. 
-  - Review field supervisor and facutly supervisor comments on draft, revise accordingly, and post on TWEN
+- Final Learing Goals and Plan
 - Time log 
 
 #### Individual Conference  
 
-- Schedule first individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 3 (April 20-24)
+- Schedule first individual conference with faculty supervisor: ([calendly.com/emfink/](https://calendly.com/emfink/)) 
+	- The conference should take place during Week 3 (January 18-22)
 
 ## Week 3
 
-#### Reading 
-
-- _Learning from Practice_, Chapter corresponding to your field placement.
-
 #### Assignments
 
-- Journal: The Placement Organization 
-  - Describe your placement organization, including the organizational structure, the areas of law covered, the clients served, the types of work attorneys perform, and the typical workflow. 
+- Journal 1 (see TWEN for prompt)
 - Time log 
 
 #### Meeting
@@ -185,17 +166,17 @@ TIME
 
 #### Reading 
 
-- _Roadmap_: Section III C and D, page 69-77 and 78-97.
+- Neil Hamilton, _Roadmap_, Sections III C and D (pp. 69-97).
 
 #### Assignments
 
-- Journal: Supervision & Feedback 
-  - Using one project or assignment you have completed as an example, discuss how you have sought out supervision and your reaction to/reflection on feedback.
+- Journal 2 (see TWEN for prompt)
 - Time log 
 
 #### Meeting 
 
 - First group meeting with faculty supervisor 
+	- Day and time to be announced. 
 
 ## Week 5 
 
@@ -205,45 +186,46 @@ TIME
 
 #### Assignments
 
-- Journal: Project Analysis 
-  - Create a bill and project analysis for one project you have worked on. Evaluate yourself and how you would bill a client for this work. 
+- Journal 3 (see TWEN for prompt)
 - Time log 
 
 #### Midterm Evaluation  
 
-- Give your site supervisor a copy of the mid-term evaluation form (to be posted by the end of Week 6)
-- Schedule conference with site supervisor and faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 6 (May 4-8)
+- Give mid-term evaluation form to your site supervisor.
+	- The evaluation should be completed and posted to TWEN by the end of Week 6
+- Schedule site supervisor's conference with faculty supervisor: [calendly.com/emfink/](https://calendly.com/emfink/))
+ 	- The conference should take pluce during Week 6 (February 8-12)
 
 ## Week 6 
 
 #### Meeting 
 
-- Faculty and site supervisor conference (student may or may not be included, based on site supervisor's preference)
+- Faculty and site supervisor conference
 
 #### Assignments
 
-- Journal: Reflection on Placement Experience 
-  - Have your assignments and responsibilities been consistent with your expectations? How you have grown professionally? What knowledge and skills have you developed and what do you want to develop further during your residency and the remainder of law school? 
+- Journal 4 (see TWEN for prompt)
 - Time log 
-- Mid-term evaluation (completed by site supervisor)
+- Site supervisor's mid-term evaluation 
 
 ## Week 7
 
 #### Assignments
 
-- Journal: Professional Development 
-  - Attend a one-hour professional development program or activity of your choosing. The one hour can include one unit completed on Procertas. What did you learn? What did you like/dislike?
+- Journal 5 (see TWEN for prompt)
 - Time log 
 
 #### Individual Conference  
 
-- Schedule second individual conference with faculty supervisor ([calendly.com/emfink/](https://calendly.com/emfink/)) during Week 8 (May 25-29). 
+- Schedule second individual conference with faculty supervisor: ([calendly.com/emfink/](https://calendly.com/emfink/)) 
+	- The conference should take place during Week 8 (February 22-26). 
 
 ## Week 8 
 
 #### Assignments
 
-- Report: Create a list of all projects and assignments you have worked on. Do not include any confidential information. 
+- Summary Report: List of all projects and assignments you have worked on. 
+	- Do not include any confidential information. 
 - Time log 
 
 #### Meeting 
@@ -255,23 +237,24 @@ TIME
 #### Meeting 
 
 - Final group meeting with faculty supervisor
+	- Day and time to be announced. 
 
 #### Assignments
 
-- Journal: Learning Milestones and Benchmarks
-  - Using your Goal Statement as a platform, discuss your goals and compare with learning milestones and benchmarks. Discuss one challenge and one rewarding experience. How do you compare your knowledge and skills before and after your residency? What do you want to continue to improve during your remaining time in law school? 
+- Journal 6 (see TWEN for prompt)
 - Time log 
 
 #### Final Evaluation 
 
-- Give your site supervisor a copy of the final evaluation form (to be posted by the end of Week 10)
+- Give final evaluation form to site supervisor
+	- The avaluation should be completed and posted to TWEN by the end of Week 10
 
 ## Week 10 
 
 #### Assignments
 
 - Time log 
-- Final evaluation (completed by site supervisor)
+- Site supervisor's final evaluation 
 - Student self-evaluation
 - Certificate of Completion
 
