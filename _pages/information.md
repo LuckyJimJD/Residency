@@ -9,17 +9,15 @@ title: Course Information
 
 #### Overview
 
-The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. 
+The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. As your faculty supervisor, I will review your writing assignments and meet with you periodically as a group and individually to discuss your field experience and issues related to legal practice. I will also communicate with your site supervisor about your progress in the field placement.
 
-As your faculty supervisor, I will review your weekly journals and meet with you periodically as a group and individually to discuss your field experience and issues related to legal practice. I will also communicate with your field supervisor about your progress in the field placement.
+To earn academic credit for work in a law or judicial office, ABA Standards require that you participate in substantial lawyering experiences, receive feedback from your site and faculty supervisors, reflect on your experiences throughout the placement, and engage in self-assessment. The Residency course is designed to meet these requirements. 
 
-In your residency, you are stepping into the role of a lawyer-in-training and a professional in the workplace. To earn academic credit for work in a law or judicial office, in accordance with ABA Standards, you must participate in substantial lawyering experiences, receive feedback from your field and faculty supervisors, reflect on your experiences throughout the placement, and engage in self-assessment. The Residency-in-Practice course is designed to meet these requirements. 
-
-During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, as well as other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue at the workplace, you should discuss it with me. If necessary, we will involve the Director of Residencies, Professor Katherene E. Holtzinger Conner (kconner2@elon.edu; 336-279-9311). 
+During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, and other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue yourself, you should discuss it with me. If necessary, we will involve the Residency Program Director, Professor Conner (kconner2@elon.edu; 336-279-9311). 
 
 #### Learning Goals
 
-The Residency-in-Practice course is intended to advance these common learning goals:
+The Residency course is intended to advance these learning goals:
 
 - Integrating substantive learning with practical experience and assimilate knowledge from the study of law to the practice of law. 
 - Transferring knowledge from study to practice, applying legal doctrines learned in class to a practice setting, and bringing knowledge and skills developed in practice back to the classroom;
@@ -30,26 +28,27 @@ Each student will also identify individual goals and develop a plan for attainin
 
 #### Requirements
 
-To receive credit for the Residency-in-Practice, you must complete the following activities and assignments: 
+To receive credit for the Residency, you must complete these activities and assignments: 
 
 - Field placement hours (based on credit hours for which you have enrolled)
-- Assigned readings; 
-- Time logs, journals, & reports; 
-- One Hour of professional development with a report and analysis; 
-- Two group meetings with the faculty supervisor; 
-- Two individual conferences with the faculty supervisor; 
-- Field supervisor and student evaluations; 
+- Weekly time logs
+- Assigned readings, journals, & reports
+- One hour of professional development with a report and analysis
+- Two group meetings with the faculty supervisor
+- Two individual conferences with the faculty supervisor
+- Mid-term and final evaluations by the site supervisor
+- Student self-evaluation
 
-_Note:_ Students who complete the requisite number of hours may request to end their residency field placements one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
+_Note:_ If you complete the requisite number of hours early, you may request to end your field placement one week before the end of the term (but no earlier). Your site supervisor and faculty supervisor must both approve this request. 
 
 #### Grading 
 
-This course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
+The course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
 - Completion of required field placement hours;
-- Completion and timely submission of all assignments; and 
-- Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others with whom you interact during the residency.
+- Timely submission of all assignments; and 
+- Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others during the residency.
 
-Due dates for journals, time logs, and reports are indicated in the Schedule section below. If you are unable to meet an assignment deadline because of your field supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
+Due dates are indicated in the Schedule & Assignments section below. If you are unable to meet a due date because of your site supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
 
-Exemplary performance in your field placement, written assignments, and group meetings may earn a High Pass. Failure to meet these standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.
+Exemplary performance in your field placement, writing assignments, and group meetings may earn a High Pass. Failure to meet the course standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.

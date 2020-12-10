@@ -24,9 +24,12 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
  9        | 5 March     | Journal 6; 2nd Group Meeting 
  10       | 8-12 March  | Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
 
+- All required forms are available on TWEN
 - The individual conferences and group meetings will be on Zoom. 
-- You will schedule your individual conferences using the link provided in the weekly schedule below. 
-- I will schedule the group meetings during the weeks indicated, based on everyone's availability. 
+	- You will schedule your individual conferences using the link provided in the weekly schedule. 
+	- I will schedule the group meetings during the weeks indicated, based on everyone's availability. 
+- My conferences with your site supervisors will be by telephone. 
+	- You will consult with your site supervisor regarding their availability and schedule the conference for them using the link provided in the weekly schedule.
 
 ## Orientation (January 4)
 
@@ -112,7 +115,7 @@ TIME
 
 #### Midterm Evaluation  
 
-- Give mid-term evaluation form to your site supervisor.
+- Give mid-term evaluation form (available on TWEN) to your site supervisor.
 	- The evaluation should be completed and posted to TWEN by the end of Week 6
 - Schedule site supervisor's conference with faculty supervisor: [calendly.com/emfink/](https://calendly.com/emfink/))
  	- The conference should take pluce during Week 6 (February 8-12)
@@ -167,7 +170,7 @@ TIME
 
 #### Final Evaluation 
 
-- Give final evaluation form to site supervisor
+- Give final evaluation form (available on TWEN) to site supervisor
 	- The avaluation should be completed and posted to TWEN by the end of Week 10
 
 ## Week 10 
