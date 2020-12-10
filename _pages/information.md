@@ -5,41 +5,51 @@ title: Course Information
   
 ---
 
-# Description
+# Course Description
 
-In this course, you will learn about the procedures for civil suits. Topics to be covered include the scope of a lawsuit, selection of an appropriate forum, presentation of claims and defenses, choice of applicable law, disposition without a trial, and the effect of judgments on future litigation. Other aspects of civil litigation (e.g., discovery, trials, & appeals) are covered in upper-level elective courses. While the course will focus on federal courts, the rules of civil procedure in many states (including North Carolina) are similar. 
+#### Overview
 
-This course is intended to prepare you for legal practice by developing the knowledge and skill required to recognize and analyze procedural issues, advise clients on those issues and the available options, and to draft pleadings and pre-trial motions. 
+The Residency-in-Practice course includes both a field experience and a class component. The class component is an integral part of the work for which you earn academic credit. 
 
-# Required Materials
+As your faculty supervisor, I will review your weekly journals and meet with you periodically as a group and individually to discuss your field experience and issues related to legal practice. I will also communicate with your field supervisor about your progress in the field placement.
 
-Cases, statutes, rules, and other assigned readings (see "Schedule & Assignments") are available online via the course site [`emfink.net/CivilProcedure`](https://www.emfink.net/CivilProcedure). The course site also has subject outlines, visual aids, review problems, past exam questions, and links to other useful resources.
+In your residency, you are stepping into the role of a lawyer-in-training and a professional in the workplace. To earn academic credit for work in a law or judicial office, in accordance with ABA Standards, you must participate in substantial lawyering experiences, receive feedback from your field and faculty supervisors, reflect on your experiences throughout the placement, and engage in self-assessment. The Residency-in-Practice course is designed to meet these requirements. 
 
-[Click & Learn: Civil Procedure](https://clickandlearnguide.com/) (Carolina Academic Press). This is an online interactive resource that will help you review and master the legal principles covered in the course. 
+During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, as well as other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue at the workplace, you should discuss it with me. If necessary, we will involve the Director of Residencies, Professor Katherene E. Holtzinger Conner (kconner2@elon.edu; 336-279-9311). 
 
-# Policies 
+#### Learning Goals
 
-### Grading
+The Residency-in-Practice course is intended to advance these common learning goals:
 
-Your final grade for the term will be based on the assigned Click & Learn review questions (40% total) and a final exam (60%). 
+- Integrating substantive learning with practical experience and assimilate knowledge from the study of law to the practice of law. 
+- Transferring knowledge from study to practice, applying legal doctrines learned in class to a practice setting, and bringing knowledge and skills developed in practice back to the classroom;
+- Deepening knowledge of the legal profession and lawyers' professional responsibilities, and enhancing professional development; and
+- Increasing the ability to learn from experience, through regular feedback from attorneys, self-evaluation, and reflection on the lessons of practice under faculty guidance.
 
-- You will complete the assigned Click & Learn questions (see "Schedule & Assignments") outside of class.
-- The final exam will consist of essay and short-answer questions and will be administered during the Fall term exam period. 
+Each student will also identify individual goals and develop a plan for attaining these goals in the residency.
 
-### Class Preparation, Attendance, & Participation
+#### Requirements
 
-Successful performance in this course depends on completion of all reading assignments before class, regular and prompt class attendence, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction. 
+To receive credit for the Residency-in-Practice, you must complete the following activities and assignments: 
 
-Elon Law School has adopted the following attendance policy for all courses: 
+- Field placement hours (based on credit hours for which you have enrolled)
+- Assigned readings; 
+- Time logs, journals, & reports; 
+- One Hour of professional development with a report and analysis; 
+- Two group meetings with the faculty supervisor; 
+- Two individual conferences with the faculty supervisor; 
+- Field supervisor and student evaluations; 
 
-> The Law School administers a policy that a student maintain regular and punctual class attendance in all courses in which the student is registered, including externships, clinical courses, or simulation courses. Faculty members will give students written notice of their attendance policies before or during the first week of class. These policies may include, but are not limited to: treating late arrivals, early departures, and/or lack of preparation as absences; imposing grade or point reductions for absences, including assigning a failing grade or involuntarily withdrawing a student from the class; and any other policies that a professor deems appropriate to create a rigorous and professional classroom environment.
->  
-> In case of illness or emergency, students may contact the Office of Student and Professional Life, which will then notify the student’s instructors. A student may notify the faculty member directly of a planned absence and should refer to individual faculty members regarding any policy that may apply. In the case of prolonged illness or incapacity, the student should contact the Office of Student and Professional Life.
+_Note:_ Students who complete the requisite number of hours may request to end their residency field placements one week prior to the last day of classes for the term, but no earlier. To do so, you must give prior notice to, and obtain permission from, your site supervisor and faculty supervisor. 
 
-### Disability Accommodations 
+#### Grading 
 
-For disability accommodation requests, contact the Elon Law [Registrar's Office](https://www.elon.edu/e/law/academics/registrar-office/index.html).  
+This course will be graded on a pass/fail basis. The minimum requirements for a passing grade are as follows: 
 
-### Honor Code 
+- Completion of required field placement hours;
+- Completion and timely submission of all assignments; and 
+- Professionalism in dealing with your field supervisor, faculty supervisor, clients, and others with whom you interact during the residency.
 
-The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
+Due dates for journals, time logs, and reports are indicated in the Schedule section below. If you are unable to meet an assignment deadline because of your field supervisor's schedule, you should notify me to receive an extension. Extensions will generally not be granted for other reasons absent extraordinary circumstances. 
+
+Exemplary performance in your field placement, written assignments, and group meetings may earn a High Pass. Failure to meet these standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.

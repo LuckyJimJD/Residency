@@ -29,7 +29,7 @@ As your faculty supervisor, I will review your weekly journals and meet with you
 
 In your residency, you are stepping into the role of a lawyer-in-training and a professional in the workplace. To earn academic credit for work in a law or judicial office, in accordance with ABA Standards, you must participate in substantial lawyering experiences, receive feedback from your field and faculty supervisors, reflect on your experiences throughout the placement, and engage in self-assessment. The Residency-in-Practice course is designed to meet these requirements. 
 
-During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, as well as other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue at the workplace, you should discuss it with me. If necessary, we will involve the Director of Residencies, Professor Katherene E. Holtzinger Conner (kconner2@elon.edu; 336-279-9311). 
+During your residency, you are bound by the attorney disciplinary rules for the jurisdiction of your field placement, as well as other rules, guidelines, or policies applicable to your particular practice setting. You are expected to resolve any workplace issues and problems with the attorney or others involved. If you cannot resolve the issue at the workplace, you should discuss it with me. If necessary, we will involve the Director of Residencies, Professor Conner (kconner2@elon.edu; 336-279-9311). 
 
 #### Learning Goals
 
@@ -70,23 +70,6 @@ Due dates for journals, time logs, and reports are indicated in the Schedule sec
 
 Exemplary performance in your field placement, written assignments, and group meetings may earn a High Pass. Failure to meet these standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.
 
-# Required Material 
-
-Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.) (ABA 2018). Available from the ABA: [bit.ly/32pk6tk](http://bit.ly/32pk6tk)
-
-Disciplinary and student practice rules for the jurisdiction of your field placement: 
-
- **Jurisdiction** | **Disciplinary Rules**  |  **Student Practice Rules**
----|---|---
- North Carolina | [bit.ly/2TrnYcg](http://bit.ly/2TrnYcg) | [bit.ly/2TmaUot](http://bit.ly/2TmaUot)
- District of Columbia | [bit.ly/2HUYpYL](http://bit.ly/2HUYpYL) | [bit.ly/2IupHFA](http://bit.ly/2IupHFA)
- Georgia | [bit.ly/2Tjv1U6](http://bit.ly/2Tjv1U6) | [bit.ly/39CNpeP](http://bit.ly/39CNpeP)
- Tennessee  | [bit.ly/2wMYsDt](http://bit.ly/2wMYsDt) | [bit.ly/38DTtSO](http://bit.ly/38DTtSO) 
- Texas  | [bit.ly/39DZLDx](http://bit.ly/39DZLDx) | [bit.ly/2IBWEzO](http://bit.ly/2IBWEzO)
- Virginia | [bit.ly/2EGzF4n](http://bit.ly/2EGzF4n) | [bit.ly/335mztt](http://bit.ly/335mztt)
-
-\newpage
-
 # Schedule & Assignments
 
 _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
@@ -114,9 +97,12 @@ _Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday
 
 #### Reading (to be completed before orientation)
 
-- Attorney disciplinary rules for the jurisdiciton of your field placement
-	- [Links here](/links)). 
-- Neil Hamilton, _Roadmap_, Sections I A-D & III J
+- North Carolina Rules of Professional Conduct
+	- [bit.ly/2TrnYcg](http://bit.ly/2TrnYcg)
+- North Carolina student practice rule
+	- [bit.ly/2TmaUot](http://bit.ly/2TmaUot)
+- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.), Sections I A-D & III J
+	- Available from the ABA: bit.ly/32pk6tk](http://bit.ly/32pk6tk)
 
 ### Residency Orientation
 
