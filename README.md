@@ -1,6 +1,6 @@
-# Civil Procedure 
+# Residency-in-Practice
 
-## Course site for Civil Procedure (Prof. Fink) at Elon Law School 
+## Course site for the Residency-in-Practice (Prof. Fink) at Elon Law School 
 
 Built with [Jekyll](https://jekyllrb.com/)
 
