@@ -67,186 +67,151 @@ Due dates are indicated in the Schedule & Assignments section below. If you are 
 
 Exemplary performance in your field placement, writing assignments, and group meetings may earn a High Pass. Failure to meet the course standards (including but not limited to 3 or more late submissions of written assignments) may result in a Low Pass or a Failing grade, depending on the extent of deficiency.
 
-# Schedule & Assignments
+# Summary of Assignments & Meetings
 
-_Note: All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able._
-
-## Assignments & Meetings Summary 
-
- Week No. | End Date    | Assignments & Meetings 
-:---------|:------------|:---------------------
- 1        | 8 January   | Learning Goals (Draft)
- 2        | 15 January  | Learning Goals (Final)
- 3        | 22 January  | Journal 1; 1st Individual Conference 
- 4        | 29 January  | Journal 2; 1st Group Meeting 
- 5        | 5 February  | Journal 3 
- 6        | 12 February | Journal 4; Supervisor's Midterm Evalualtion
- 7        | 19 February | Journal 5 
- 8        | 26 February | Projects & Assignments Summary; 2nd Individual Conference
- 9        | 5 March     | Journal 6; 2nd Group Meeting 
- 10       | 8-12 March  | Supervisor's Final Evaluation; Self-Evaluation; Certificate of Completion
-
+ Week | End Date    | Assignments & Meetings 
+:----:|:------------|:---------------------
+ 1    | 8 January   | Learning Goals (Draft)
+ 2    | 15 January  | Learning Goals (Final)
+ 3    | 22 January  | Journal 1; 1st Individual Conference 
+ 4    | 29 January  | Journal 2; 1st Group Meeting 
+ 5    | 5 February  | Journal 3 
+ 6    | 12 February | Journal 4; Midterm Evalualtion
+ 7    | 19 February | Journal 5 
+ 8    | 26 February | Project Summary; 2nd Individual Conference
+ 9    | 5 March     | Journal 6; 2nd Group Meeting 
+ 10   | 12 March    | Final Evaluation; Self-Evaluation; Certificate of Completion
 
 - All required forms are available on TWEN
-- The individual conferences and group meetings will be on Zoom. 
-	- You will schedule your individual conferences using the link provided in the weekly schedule. 
-	- I will schedule the group meetings during the weeks indicated, based on everyone's availability. 
-- My conferences with your site supervisors will be by telephone. 
-	- You will consult with your site supervisor regarding their availability and schedule the conference for them using the link provided in the weekly schedule.
+- All assignments must be posted on TWEN **no later than 11:59 pm on Friday of the week in which they are due**. 
+- If you encounter problems with TWEN, you may send the assignment to me by email to meet the deadline and then post to TWEN when you are able.
 
-## Orientation (January 4)
+# Weekly Schedule 
 
-#### Reading (to be completed before orientation)
+## Week 1 (January 4-8)
 
-- North Carolina Rules of Professional Conduct
-	- [bit.ly/2TrnYcg](http://bit.ly/2TrnYcg)
-- North Carolina student practice rule
-	- [bit.ly/2TmaUot](http://bit.ly/2TmaUot)
-- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.), Sections I A-D & III J
-	- Available from the ABA: [bit.ly/32pk6tk](http://bit.ly/32pk6tk)
+#### Orientation: January 4
 
-### Residency Orientation
+- Read before orientation: 
+	- North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
+	- North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
+	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.), [pages 1-5, 9-13, 134-143](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap-excerpts.pdf)
+- Meeting with Residency Program Director, 8:30 am - Noon
+- Meeting with Faculty Supervisor, 12:30 - 1:30 pm 
 
-8:30 am-Noon 
-
-### Group meeting with faculty supervisor
-
-TIME
-
-## Week 1 
-
-#### Reading
-
-- _Roadmap_: Section 11, C and D, pages 47-53 and 54. 
-
-#### Assignments 
+#### Post to TWEN
 
 - Memoranda of Understanding 
 - Confidentiality Agreement (if applicable) 
 - Draft Learning Goals and Plan
 
-## Week 2 
+## Week 2 (January 11-15)
 
-#### Assignments
+#### First Individual Conference with Faculty Supervisor
+
+- Schedule your conference to take place during Week 3 (January 18-22): [calendly.com/emfink/](https://calendly.com/emfink/) 
+
+#### Post to TWEN
 
 - Final Learing Goals and Plan
 - Time log 
 
-#### Individual Conference  
+## Week 3 (January 18-22)
 
-- Schedule first individual conference with faculty supervisor: ([calendly.com/emfink/](https://calendly.com/emfink/)) 
-	- The conference should take place during Week 3 (January 18-22)
+#### First Individual Conference with Faculty Supervisor
 
-## Week 3
+- As scheduled above
 
-#### Assignments
+#### Post to TWEN
 
 - Journal 1 (see TWEN for prompt)
 - Time log 
 
-#### Meeting
+## Week 4 (January 25-29)
 
-- First individual conference with faculty supervisor
+#### First Group Meeting with Faculty Supervisor
 
+- Day and time to be announced. 
 
-## Week 4
-
-#### Reading 
-
-- Neil Hamilton, _Roadmap_, Sections III C and D (pp. 69-97).
-
-#### Assignments
+#### Post to TWEN
 
 - Journal 2 (see TWEN for prompt)
 - Time log 
 
-#### Meeting 
+## Week 5 (February 1-5)
 
-- First group meeting with faculty supervisor 
-	- Day and time to be announced. 
+#### Midterm Evaluation 
 
-## Week 5 
+- Give midterm evaluation form to site supervisor
 
-#### Reading 
+#### Site Supervisor's Conference with Faculty Supervisor 
 
-- _Learning from Practice_, Chapter 7: Bias in the Legal Profession. 
+- Consult with your faculty supervisor about their availability during Week 6 (February 8-12)
+- Schedule the conference for your site supervisor here: [calendly.com/emfink/](https://calendly.com/emfink/)
 
-#### Assignments
+#### Post to TWEN
 
 - Journal 3 (see TWEN for prompt)
 - Time log 
 
-#### Midterm Evaluation  
+## Week 6 (February 8-12)
 
-- Give mid-term evaluation form to your site supervisor.
-	- The evaluation should be completed and posted to TWEN by the end of Week 6
-- Schedule site supervisor's conference with faculty supervisor: [calendly.com/emfink/](https://calendly.com/emfink/))
- 	- The conference should take pluce during Week 6 (February 8-12)
+#### Site Supervisor's Conference with Faculty Supervisor 
 
-## Week 6 
+- As scheduled above 
 
-#### Meeting 
-
-- Faculty and site supervisor conference
-
-#### Assignments
+#### Post to TWEN
 
 - Journal 4 (see TWEN for prompt)
 - Time log 
-- Site supervisor's mid-term evaluation 
+- Mid-term evaluation (completed by site supervisor)
 
-## Week 7
+## Week 7 (February 15-19)
 
-#### Assignments
+#### Second Individual Conference with Faculty Supervisor
+
+- Schedule your conference to take place during Week 8 (February 22-26): [calendly.com/emfink/](https://calendly.com/emfink/) 
+
+#### Post to TWEN
 
 - Journal 5 (see TWEN for prompt)
 - Time log 
 
-#### Individual Conference  
+## Week 8 (February 22-26)
 
-- Schedule second individual conference with faculty supervisor: ([calendly.com/emfink/](https://calendly.com/emfink/)) 
-	- The conference should take place during Week 8 (February 22-26). 
+#### Second Individual Conference with Faculty Supervisor
 
-## Week 8 
+- As scheduled above
 
-#### Assignments
+#### Post to TWEN
 
-- Summary Report: List of all projects and assignments you have worked on. 
-	- Do not include any confidential information. 
+- Summary Report (See TWEN for instructions)
 - Time log 
 
-#### Meeting 
-
-- Final individual conference with faculty supervisor
-
-## Week 9 
-
-#### Meeting 
-
-- Final group meeting with faculty supervisor
-	- Day and time to be announced. 
-
-#### Assignments
-
-- Journal 6 (see TWEN for prompt)
-- Time log 
+## Week 9 (March 1-5)
 
 #### Final Evaluation 
 
 - Give final evaluation form to site supervisor
-	- The avaluation should be completed and posted to TWEN by the end of Week 10
 
-## Week 10 
+#### Second Group Meeting with Faculty Supervisor
 
-#### Assignments
+- Day and time to be announced. 
 
+#### Post to TWEN
+
+- Journal 6 (see TWEN for prompt)
 - Time log 
-- Site supervisor's final evaluation 
-- Student self-evaluation
-- Certificate of Completion
+
+## Week 10 (March 8-12)
 
 #### Communication 
 
-- Thank you notes to site supervisor and others who made your residency meaningful
+- Thank you notes to site supervisor and others you worked with in your residency
 
+#### Post to TWEN
 
+- Time log 
+- Final evaluation (completed by site supervisor)
+- Self-evaluation
+- Certificate of Completion
