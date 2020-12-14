@@ -147,7 +147,7 @@ Exemplary performance in your field placement, writing assignments, and group me
 #### Site Supervisor's Conference with Faculty Supervisor 
 
 - Consult with your faculty supervisor about their availability during Week 6 (February 8-12)
-- Schedule the conference for your site supervisor here: [calendly.com/emfink/](https://calendly.com/emfink/)
+- Schedule the conference for your site supervisor: [calendly.com/emfink/](https://calendly.com/emfink/)
 
 #### Post to TWEN
 
