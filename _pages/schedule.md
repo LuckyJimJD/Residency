@@ -33,14 +33,15 @@ title: Schedule & Assignments
 - Read before orientation: 
 	- North Carolina Rules of Professional Conduct ([bit.ly/2TrnYcg](http://bit.ly/2TrnYcg))
 	- North Carolina student practice rule ([bit.ly/2TmaUot](http://bit.ly/2TmaUot))
-	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (2d ed.), [pages 1-5, 9-13, 134-143](https://www.emfink.net/Residency/assets/materials/Hamilton-Roadmap-excerpts.pdf)
+	- Neil Hamilton, _Roadmap: The Law Student's Guide to Meaningful Employment_ (Excerpts posted on TWEN)
+	- Marjorie Shultz and Sheldon Zedeck, Traits of Effective Lawyers: Self-Evaluation (Posted on TWEN)
 - Meeting with Residency Program Director, 8:30 am - Noon
-- Meeting with Faculty Supervisor, 12:30 - 1:30 pm 
+- Meeting with Faculty Supervisor, 12:15 - 1:30 pm 
 
 #### Post to TWEN
 
 - Memoranda of Understanding 
-- Confidentiality Agreement (if applicable) 
+- Confidentiality Agreement 
 - Draft Learning Goals and Plan
 
 ## Week 2 (January 11-15)
@@ -105,6 +106,10 @@ title: Schedule & Assignments
 - Mid-term evaluation (completed by site supervisor)
 
 ## Week 7 (February 15-19)
+
+#### Professional Development 
+
+- Attend a one-hour professional development program of your choosing. This may include one unit completed on Procertas. See NC Bar Association website ([ncbar.org](https://ncbar.org)) for CLE options (some are free for student members). 
 
 #### Second Individual Conference with Faculty Supervisor
 
